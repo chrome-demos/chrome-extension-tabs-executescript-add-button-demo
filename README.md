@@ -36,3 +36,8 @@ Uncaught TypeError: button.fun is not a function
 ```
 
 Can't understand why.
+
+Update
+------
+
+Explained and resolved here: <https://stackoverflow.com/questions/17933234/chrome-extension-how-to-a-call-a-function-defined-in-content-script>
